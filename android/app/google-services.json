@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76913614705",
+    "project_id": "spell-and-pronuciation-expert",
+    "storage_bucket": "spell-and-pronuciation-expert.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76913614705:android:01920997b5b7b1e44ae0d0",
+        "android_client_info": {
+          "package_name": "com.ma.spellpronuciationexpert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsa-M1hFMD8F0-5dMoN4yRsgd6-Yx1gAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

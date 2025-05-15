@@ -1,0 +1,11 @@
+{
+  "app_name": "Meine App",
+  "welcome_message": "Willkommen in unserer Anwendung!",
+  "login": "Anmelden",
+  "logout": "Abmelden",
+  "pronunciation": "Aussprache",
+  "spell_checker": "Rechtschreibprüfung",
+  "dictionary": "Wörterbuch",
+  "phrases": "Phrasen",
+  "spell_and_pronounce": "Buchstabieren und Aussprechen"
+}

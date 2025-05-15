@@ -1,0 +1,78 @@
+name: mnh
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.2+3
+
+environment:
+  sdk: ^3.6.0-334.3.beta
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  share_plus: ^10.1.3
+  country_picker: ^2.0.27
+  flutter_tts: ^4.2.2
+  speech_to_text: ^7.0.0
+  http:
+  translator: ^1.0.3+1
+  sqflite: ^2.4.1
+  path_provider: ^2.1.5
+  get: ^4.6.6
+  sqflite_common_ffi: ^2.3.4+4
+  bottom_sheet: ^4.0.4
+  country_flags: ^3.2.0
+  free_dictionary_api_v2:
+  simple_spell_checker: ^1.3.1
+  languagetool_textfield: ^0.1.1
+  smooth_page_indicator: ^1.2.0+3
+  fluttertoast: ^8.2.10
+  panara_dialogs: ^0.1.5
+  shared_preferences: ^2.5.1
+  provider: ^6.1.2
+  audioplayers: ^6.2.0
+  google_mobile_ads: ^5.3.1
+  firebase_core: ^3.12.1
+  firebase_remote_config: ^5.4.2
+  shimmer: ^3.0.0
+  internet_connection_checker: ^3.0.1
+  url_launcher: ^6.3.1
+  onesignal_flutter: ^5.3.0
+  firebase_analytics: ^11.4.5
+  firebase_crashlytics: ^4.3.5
+
+
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.14.3
+  flutter_test:
+    sdk: flutter
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/appIcon2.png"
+  background_color: "transparent"              # Background color
+  adaptive_icon_background: "transparent"
+flutter:
+
+  uses-material-design: true
+  assets:
+     - assets/images/
+     - assets/icons/
+     - assets/tempIcon/
+     - assets/data_base/LearnItalian.db
+     - assets/languages/de.json
+     - assets/languages/en.json
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700

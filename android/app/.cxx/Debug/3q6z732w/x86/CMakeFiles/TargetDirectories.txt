@@ -1,0 +1,2 @@
+D:/translator_app/android/app/.cxx/Debug/3q6z732w/x86/CMakeFiles/edit_cache.dir
+D:/translator_app/android/app/.cxx/Debug/3q6z732w/x86/CMakeFiles/rebuild_cache.dir
